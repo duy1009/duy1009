@@ -1,6 +1,6 @@
 # 👨‍💻 Trần Bảo Duy — AI Engineer
 
-🌟 AI Engineer with hands-on experience in **Computer Vision**, specializing in **OCR**, **object detection**, and **real-time UAV applications**. I enjoy building practical AI systems from research ideas and deploying them efficiently using modern tools like **FastAPI**, **Docker**, and **ONNX**.
+🌟 AI Engineer with hands-on experience in **Computer Vision**, specializing in **OCR**, **object detection**, and **real-time UAV applications**.
 
 - 📍 Hanoi, Vietnam
 - 📧 Email: [tbduy1009@gmail.com](mailto:tbduy1009@gmail.com)
@@ -17,19 +17,6 @@
 
 ---
 
-## 🛠️ Work Experience
-
-### AI Engineer @ TC Software (2024–2025)
-- 📝 Built an OCR pipeline to extract text and tables from administrative documents and convert them to Word format.
-- 🧠 Used LLMs for key-value field extraction.
-- 🧪 Developed Auto Mark AI: automated multiple-choice grading with object detection & ONNX deployment.
-- 🧍‍♂️ Face recognition system on Jetson Nano using FAISS for identity matching.
-
-### Research Assistant @ ASELAB, HUST (2021–2024)
-- 🚁 Worked on autonomous obstacle avoidance algorithms and vision-based victim search for UAVs.
-
----
-
 ## 📚 Publications
 
 - 🔬 *[Applying Deep Learning for UAV Obstacle Avoidance](https://doi.org/10.1145/3628797.3628813)* – SoICT 2023
@@ -37,24 +24,10 @@
 
 ---
 
-## 🏆 Awards
-
-- 🥇 Outstanding Project Development Staff @ TC Software, 2024
-
----
-
 ## 🎓 Education
 
 **Hanoi University of Science and Technology (HUST)**  
-*Good Engineer’s Degree, 2019–2024*  
 Major: Electronics and Telecommunications – Computer Engineering  
-📊 CPA: 3.37 / 4.0
-
----
-
-## 🌐 Languages
-
-- English: VSTEP B1 (Reading and understanding technical documents)
 
 ---
 
